@@ -29,8 +29,10 @@
 	# <HINT>
 	# How does a for loop iterate through a string?
 
-def one(input):
-	return ""
+word = input("Please enter a word here:")
+def one(word):
+	return ''.join([x * 3 for x in word])
+
 
 	# <QUESTION 2>
 
