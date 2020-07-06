@@ -29,9 +29,9 @@
 	# <HINT>
 	# How does a for loop iterate through a string?
 
-word = input("Please enter a word here:")
-def one(word):
-	return ''.join([x * 3 for x in word])
+#word = input("Please enter a word here:")
+#def one(word):
+	#return ''.join([x * 3 for x in word])
 
 
 	# <QUESTION 2>
@@ -49,8 +49,22 @@ def one(word):
 	# What operator will give you the remainder?
 	# Use your CLI to access the Python documentation and get help manipulating strings - help(range).
 
-def two(input):
-    return False
+
+#n = input("Enter Number here: ")
+
+
+#def two(n):
+#	if n == 1:
+#		return False
+#	elif n == 2:
+#		return True
+#	else:
+#		for x in range(2, n):
+#			if n % x == 0:
+#				return False
+#		return True
+
+
 
 	# <QUESTION 3>
 
@@ -66,8 +80,13 @@ def two(input):
 	# <HINT>
 	# What happens if you multiply a string by a number?
 
-def three(a):
-	return 1
+#a = int(input("Enter Number here: "))
+#def three(a):
+#	b = int(a * 11)
+#	c = int(a * 111)
+#	d = int(a * 1111)
+
+#	return a + b + c + d
 
 	# <QUESTION 4>
 
