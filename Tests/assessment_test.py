@@ -22,12 +22,12 @@ from Code import python2
 #    assert python2.three(7) == 8638
 #    assert python2.three(4) == 4936
 
-#def test_four():
+# def test_four():
 #    assert python2.four("String","Fridge") == "SFtrriidngge"
 #    assert python2.four("Dog","Cat") == "DCoagt"
-#   assert python2.four("True","Tree") == "TTrrueee"
-#  assert python2.four("return","letter") == "rleettutrenr"
-# assert python2.four("Cat","Dog") == "CDaotg"
+#    assert python2.four("True","Tree") == "TTrrueee"
+#    assert python2.four("return","letter") == "rleettutrenr"
+#    assert python2.four("Cat","Dog") == "CDaotg"
 
 #def split(input):
 #    if len(input) != 5:
@@ -45,12 +45,12 @@ from Code import python2
 #    assert split(python2.five()) == True
 #    assert split(python2.five()) == True
 
-#def test_six():
-#    assert python2.six("ilovepy") == True
-#    assert python2.six("welovepy") == True
-#    assert python2.six("welovepyforreal") == False
-#    assert python2.six("pyiscool") == False
-#    assert python2.six("hurrayforpY") == True
+# def test_six():
+#     assert python2.six("ilovepy") == True
+#     assert python2.six("welovepy") == True
+#     assert python2.six("welovepyforreal") == False
+#     assert python2.six("pyiscool") == False
+#     assert python2.six("hurrayforpY") == True
 
 #def test_seven():
 #    assert python2.seven(2,4,6) == True
